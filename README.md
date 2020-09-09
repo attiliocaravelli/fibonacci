@@ -17,7 +17,7 @@ The Fibonacci sequence numbers are limited only by the memory available (-Xmx op
 I have considered input from a file to be more scalable and reusable (e.g. a web service)
 I have considered to store the sequence or reply in a file 
 
-Approach based on the Golden Ration:
+Approach based on the Golden Ratio:
 In this method we directly implement the formula for nth term in the fibonacci series.
 Fn = {[(√5 + 1)/2] ^ n} / √5
 Reference: http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibFormula.html
