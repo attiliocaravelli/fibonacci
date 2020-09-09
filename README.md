@@ -1,13 +1,13 @@
 **Tasks:**
-1. Input -> a number -> how many Fibonacci sequence numbers 
-   should be printed out in reverse order
+1. Input -> a number -> how many Fibonacci sequence numbers  
+   should be printed out in reverse order  
    
-2. Input -> a number -> to identify whether 
-   it is part of the Fibonacci sequence or not
+2. Input -> a number -> to identify whether  
+   it is part of the Fibonacci sequence or not  
 
 Include a dockerfile that can build/run the project
 
-Assumptions:
+Assumptions:  
 Minimum JDK 7 for compiling 
 Character set UTF
 
