@@ -17,11 +17,11 @@ I have considered input from a file to be more scalable and reusable (e.g. a web
 I have considered to store the sequence or reply in a file***
 
 # Approach based on the Golden Ratio:
-***In this method we directly implement the formula for nth term in the fibonacci series.  
+***In this method we directly implement the formula for nth term in the fibonacci series.***  
 						Fn = {[(√5 + 1)/2] ^ n} / √5  
-Reference: http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibFormula.html  ***
+***Reference: http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibFormula.html  ***
 
-***Time Complexity: O(n) (n = number of elements requested of the sequence)
+***Time Complexity: O(n) (n = number of elements requested of the sequence)  
 Space Complexity: O(1)***  
 
 # Build/run with docker:
