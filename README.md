@@ -27,8 +27,10 @@ Space Complexity: O(1)
 
 Build/run with docker:
 1.  Install docker and run the daemon
-2.  With Linux -> open a terminal and type:
-		$ docker build -t malwarebytes . < Dockerfile
-	With Powershell on Windows, you can run:
+2.  download the Dockerfile of this repository in a local folder
+3.  
+    On Linux -> open a terminal in the local folder above and type:
+		docker build -t malwarebytes . < Dockerfile
+	On Windows-> open a Powershell in the local folder above and type:
 		Get-Content Dockerfile | docker build -t malwarebytes .
-3.  docker run --rm -it malwarebytes:latest
+4.  docker run --rm -it malwarebytes:latest
