@@ -13,7 +13,7 @@ Include a dockerfile that can build/run the project
 # Data models:
 ***BigInteger for input/output***  
 The Fibonacci sequence numbers are limited only by the memory available (-Xmx opt)  
-I programmed it with a view to greater flexibility, scalability and reusability of the code
+I programmed it with a prospective view to greater flexibility, scalability and reusability of the code
 
 # Approach based on the Golden Ratio:
 **Task n.1**  
