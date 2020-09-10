@@ -27,10 +27,10 @@ A number is Fibonacci if and only if one or both of (5*n2 + 4) or (5*n2 – 4) i
 # Performance Analysis:
 **Task n.1:**  
 ***Time Complexity:*** O(n) (n = number of elements requested of the sequence)  
-***Space Complexity:*** O(1)
+***Space Complexity:*** O(1)  
 **Task n.2:**    
 ***Time Complexity:*** O(1)  
-***Space Complexity:*** O(1)
+***Space Complexity:*** O(1)  
 
 
 # Build/run with docker:
