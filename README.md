@@ -11,10 +11,9 @@ Include a dockerfile that can build/run the project
 2. **Character set:** UTF-8  
 
 # Data models:
-***BigInteger for input/output     
+***BigInteger for input/output***  
 The Fibonacci sequence numbers are limited only by the memory available (-Xmx opt)  
-I have considered input from a file to be more scalable and reusable (e.g. a web service)  
-I have considered to store the sequence or reply in a file***
+I programmed it with a view to greater flexibility, scalability and reusability of the code
 
 # Approach based on the Golden Ratio:
 **Task n.1**  
