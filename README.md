@@ -21,7 +21,7 @@ I have considered to store the sequence or reply in a file***
 In this method we directly implement the formula for nth term in the fibonacci series.  
 			Fn = {[(√5 + 1)/2] ^ n} / √5  
 **Task n.2**  
-A number is Fibonacci if and only if one or both of (5*n2 + 4) or (5*n2 – 4) is a perfect square
+A number is Fibonacci if and only if one or both of (5*n2 + 4) or (5*n2 – 4) is a perfect square  
 ***Source: https://en.wikipedia.org/wiki/Fibonacci_number#Recognizing_Fibonacci_numbers***
 
 # Performance Analysis:
