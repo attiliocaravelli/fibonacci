@@ -1,10 +1,10 @@
 # Tasks:
-1. Input -> a number -> how many Fibonacci sequence numbers  
-   should be printed out in reverse order  
-2. Input -> a number -> to identify whether  
-   it is part of the Fibonacci sequence or not  
-
-Include a dockerfile that can build/run the project
+**1. Input** -> a number  
+   Output -> how many Fibonacci sequence numbers  
+             should be printed out in reverse order  
+**2. Input** -> a number 
+   Output -> to identify whether it is part   
+             of the Fibonacci sequence or not  
 
 # Assumptions:
 1. **JDK version:** 8 or later    
