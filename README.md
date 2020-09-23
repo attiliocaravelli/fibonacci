@@ -36,7 +36,7 @@ A number is Fibonacci if and only if one or both of (5*n2 + 4) or (5*n2 – 4) i
 2.  download the Dockerfile of this repository in a local folder  
 3.  
     On Linux -> open a terminal in the local folder above and type:  
-		docker build -t malwarebytes . < Dockerfile  
+		docker build -t fibonacci . < Dockerfile  
 	On Windows-> open a Powershell in the local folder above and type:  
 		Get-Content Dockerfile | docker build -t malwarebytes .  
-4.  docker run --rm -it malwarebytes:latest  
+4.  docker run --rm -it fibonacci:latest  
